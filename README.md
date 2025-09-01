@@ -45,10 +45,10 @@ python main.py
 ✋ Hover your hand in front of the webcam to activate tracking.
 
 🤚 Close your hand to reset or pause typing.
+Close your palm and hide index finger while hovering over keyboard,once you are confirm which letter to type point index finger to only the letter you want to type.
 
 👉 Point your index finger to the letter you want to select on the virtual keyboard.
 
 ⌨️ Keep hovering and pointing to type continuously without touching a physical keyboard.
 
-📷 Demo (Optional)
 
